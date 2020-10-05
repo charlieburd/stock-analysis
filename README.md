@@ -19,14 +19,13 @@
 
 ![stacked_launch_outcomes](https://github.com/charlieburd/stock-analysis/blob/master/VBA_2017.png)
 
-![stacked_launch_outcomes](https://github.com/charlieburd/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
+![stacked_launch_outcomes](https://github.com/charlieburd/stock-analysis/blob/master/VBA_2018.png)
 
-![stacked_launch_outcomes]https://github.com/charlieburd/stock-analysis/blob/master/VBA_2018.png
 **Refactored**
 
-![stacked_launch_outcomes]https://github.com/charlieburd/stock-analysis/blob/master/VBA_2017_refactored.png
+![stacked_launch_outcomes](https://github.com/charlieburd/stock-analysis/blob/master/VBA_2017_refactored.png)
 
-![stacked_launch_outcomes]https://github.com/charlieburd/stock-analysis/blob/master/VBA_2018_refactored.png
+![stacked_launch_outcomes](https://github.com/charlieburd/stock-analysis/blob/master/VBA_2018_refactored.png)
 
 ## Summary
